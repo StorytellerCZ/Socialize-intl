@@ -9,6 +9,8 @@ import pm from './pm'
 import settings from './settings'
 import sharing from './sharing'
 import comments from './comments'
+import users from './user'
+import pages from './pages'
 
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -22,5 +24,7 @@ export default {
   ...settings,
   ...sharing,
   ...comments,
-  ...legal
+  ...legal,
+  ...pages,
+  ...users
 }

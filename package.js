@@ -3,7 +3,7 @@ Package.describe({
   name: 'socialize-intl',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'Intl for Literary Universe',
+  summary: 'Intl for Socialize-starter',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/StorytellerCZ/Socialize-intl',
   // By default, Meteor will default to using README.md for documentation.

@@ -10,6 +10,7 @@ import settings from './settings'
 import sharing from './sharing'
 import comments from './comments'
 import pages from './pages'
+import users from './user'
 
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -24,5 +25,6 @@ export default {
   ...sharing,
   ...comments,
   ...legal,
-  ...pages
+  ...pages,
+  ...users
 }

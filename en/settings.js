@@ -11,7 +11,7 @@ export default {
     'settings.email.add': 'Add e-mail',
     'settings.languages.title': 'Language settings',
     'settings.languages.notice': 'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
-    'settings.languages.join': 'If you would like to help us, you can translate Literary Universe as well.',
+    'settings.languages.join': 'If you would like to help us, you can translate Socialize-starter as well.',
     'settings.name.title': 'Real name',
     'settings.name.given': 'Given name',
     'settings.name.family': 'Family name',

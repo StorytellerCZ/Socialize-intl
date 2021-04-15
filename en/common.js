@@ -77,4 +77,6 @@ export default {
   'common.legal.gdpr.long': 'General Data Protection Regulation',
   'common.publish': 'Publish',
   'common.publishAt': 'Publication date and time',
+  copyrights: 'Copyrights',
+  'copyrights.desc': 'The full text of Socialize-starter Copyrights Agreement.',
 }
