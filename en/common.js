@@ -13,8 +13,6 @@ export default {
   'common.settings': 'Settings',
   'common.options': 'Options',
   'common.profile': 'Profile',
-  'common.blog': 'Blog',
-  'common.blogs': 'Blogs',
   'common.about': 'About us',
   'common.accessdenied': 'Access denied',
   'common.accessdenied.msg': 'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',

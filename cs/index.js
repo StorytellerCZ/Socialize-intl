@@ -9,10 +9,9 @@ import pm from './pm'
 import settings from './settings'
 import sharing from './sharing'
 import comments from './comments'
-import pages from './pages'
 
 export default {
-  locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
+  locales: ['cs', 'cs-CZ'],
   ...common,
   ...emails,
   ...enrollment,
@@ -23,6 +22,5 @@ export default {
   ...settings,
   ...sharing,
   ...comments,
-  ...legal,
-  ...pages
+  ...legal
 }
