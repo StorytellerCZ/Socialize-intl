@@ -13,8 +13,6 @@ export default {
     'common.settings': 'Nastavení',
     'common.options': 'Možnosti',
     'common.profile': 'Profil',
-    'common.blog': 'Blog',
-    'common.blogs': 'Blogs',
     'common.about': 'O nás',
     'common.accessdenied': 'Přístup odmítnut',
     'common.accessdenied.msg': 'Nemáte přístupová práva do této oblasti.',
@@ -78,5 +76,7 @@ export default {
     'common.legal.gdpr': 'GDPR',
     'common.legal.gdpr.long': 'Obecné nařízení o ochraně údajů',
     'common.publish': 'Zveřejnit',
-    'common.publishAt': 'Datum a čas zveřejnění'
+    'common.publishAt': 'Datum a čas zveřejnění',
+    copyrights: 'Copyrights',
+    'copyrights.desc': 'The full text of Socialize-starter Copyrights Agreement.'
 };
