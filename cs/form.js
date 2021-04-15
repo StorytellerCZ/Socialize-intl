@@ -1,34 +1,34 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.required': 'Povinné pole',
+    'form.validator.mustBeNumber': 'Musí být číslo',
+    'form.validator.minNumber': 'Mělo by být větší než {min}',
+    'form.validator.maxNumber': 'Mělo by být menší než {max}',
+    'form.validator.maxLength': `Mělo by mít méně než {max} {what, select,
+    characters {písmen}
+    tags {tagů}
+    genres {žánry}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
+    'form.validator.minLength': `Mělo by mít alespoň {min} {what, select,
+    characters {písmen}
+    tags {tagů}
+    genres {žánrů}
+    genre {žánr}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'Musí být validní e-mail',
+    'form.validator.url': 'Musí být validní URL',
+    'form.validator.slug': 'Musí být validní část URL adresy',
+    'form.submitting.signup': 'Vytváříme účet...',
+    'form.submitting.signin': 'Probíhá přihlašování...',
+    'form.submitting.default': 'Posíláme...',
+    'form.submitting.sending': 'Odesíláme zprávu...',
+    'form.validator.whitespace': 'Nesmí mít žádné mezery',
+    'form.validator.zipCode': 'Musí být platný PSČ',
+    'form.validator.isbn': 'Přijímáme pouze 10 nebo 13 ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
+    'simpleschema.required': '{label} je povinné pole',
     'simpleschema.minString': '{label} must be at least {min} characters',
     'simpleschema.maxString': '{label} cannot exceed {max} characters',
     'simpleschema.minNumber': '{label} must be at least {min}',
