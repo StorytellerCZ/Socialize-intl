@@ -45,7 +45,7 @@ export default {
   'common.help': 'Help',
   'common.or': 'or',
   'common.account.create': 'Create an account',
-  'common.footer.tagline': 'Socialize-starter',
+  'common.footer.tagline': 'Starter for social apps.',
   'common.legal.tos': 'Terms of Service',
   'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Privacy Policy',
