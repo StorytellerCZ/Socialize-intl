@@ -1,6 +1,7 @@
 /* eslint-disable max-len */
 export default {
   siteName: 'Socialize-starter',
+  twitterHandle: '@storytellercz',
   'site.description': 'Socialize-starter.',
   'site.keywords': 'StorytellerCZ, Meteor.js, socialize',
   'site.logoAlt': 'Socialize-starter logo',
