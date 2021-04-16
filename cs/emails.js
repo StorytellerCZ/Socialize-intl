@@ -5,7 +5,7 @@
 export default {
     'email.enrollAccount.subject': 'Invitation to Socialize-starter for {username}',
     'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Socialize-starter! We have created a special personal account for you where you can access all features of Socialize-starter! Please join us in creating the next generation of creative writing and reading tools!
+    We would like to invite you to Socialize-starter! We have created a special personal account for you where you can access all features of Socialize-starter!
     To activate your account, simply click the link below:\n\n{url}`,
     'email.resetPassword.subject': 'Socialize-starter reset password',
     'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
@@ -18,7 +18,7 @@ export default {
     'email.signature': 'Sincerely,<br />Socialize-starter team',
     // Enrollment
     'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Socialize-starter! We went ahead and prepared a personal account for you where you can access all features of Socialize-starter! Please join us in creating the next generation of creative writing and reading!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Socialize-starter! We went ahead and prepared a personal account for you where you can access all features of Socialize-starter!',
     'email.enrollAccount.button': 'Access your account',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Socialize-starter team',
     // Reset password
