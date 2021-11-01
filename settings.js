@@ -1,5 +1,5 @@
 export default {
-  supportedLocales: ['en', 'cs'],
+  supportedLocales: ['en'],
   /**
    * Languages supported in our app
    */
@@ -12,22 +12,22 @@ export default {
       supportedLocales: ['en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
       rtl: false
     },
-    {
-      code: 'cs',
-      name: 'Czech',
-      native: 'Česky',
-      defaultLocale: 'cs-CZ',
-      supportedLocales: ['cs-CZ'],
-      rtl: false
-    },
-    {
-      code: 'ja',
-      name: 'Japanese',
-      native: '日本語',
-      defaultLocale: 'ja-JP',
-      supportedLocales: ['ja-JP'],
-      rtl: false
-    }
+    // {
+    //   code: 'cs',
+    //   name: 'Czech',
+    //   native: 'Česky',
+    //   defaultLocale: 'cs-CZ',
+    //   supportedLocales: ['cs-CZ'],
+    //   rtl: false
+    // },
+    // {
+    //   code: 'ja',
+    //   name: 'Japanese',
+    //   native: '日本語',
+    //   defaultLocale: 'ja-JP',
+    //   supportedLocales: ['ja-JP'],
+    //   rtl: false
+    // }
   ],
   /**
    * Get the array of language codes of supported languages
