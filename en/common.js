@@ -80,4 +80,5 @@ export default {
   'common.publishAt': 'Publication date and time',
   copyrights: 'Copyrights',
   'copyrights.desc': 'The full text of Socialize-starter Copyrights Agreement.',
+  'common.pagination': 'Pagination'
 }
