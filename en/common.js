@@ -16,7 +16,8 @@ export default {
   'common.profile': 'Profile',
   'common.about': 'About us',
   'common.accessdenied': 'Access denied',
-  'common.accessdenied.msg': 'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
+  'common.accessdenied.msg':
+    'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
   'common.loading': 'Loading...',
   'common.add': 'Add',
   'common.save': 'Save',
@@ -30,7 +31,8 @@ export default {
   'common.users': 'Users',
   'common.showmore': 'Show more',
   'common.futurefeature.title': 'Future feature',
-  'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+  'common.futurefeature.text':
+    'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
   'common.nothingfound': 'Nothing found',
   'common.news': 'News',
   'common.post': 'Post',
@@ -51,7 +53,8 @@ export default {
   'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Privacy Policy',
   'common.legal.copyright': 'Copyright Agreement',
-  'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
+  'common.legal.disclaimer':
+    '© {year} All rights reserved, all texts belong to their respective authors.',
   admin: 'Admin',
   goodbye: 'Thank you! See you again!',
   'common.feedback': 'Feedback',
@@ -69,10 +72,11 @@ export default {
   'common.legal.privacy.short': 'Privacy',
   male: 'Male',
   female: 'Female',
-  'common.legal.effectiveAt': 'Effective from',
+  'common.legal.effectiveAt': 'Effective from {date, date, medium}',
   select: 'Please select',
   'common.statusFailed': 'Failed to connect to the server.',
-  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
+  'common.statusConnecting':
+    'Attempting to connect to the server... ({count, number})',
   'common.legal.guidelines': 'Community Guidelines',
   'common.legal.gdpr': 'GDPR',
   'common.legal.gdpr.long': 'General Data Protection Regulation',
