@@ -8,26 +8,27 @@ export default {
     We would like to invite you to Socialize-starter! We have created a special personal account for you where you can access all features of Socialize-starter!
     To activate your account, simply click the link below:\n\n{url}`,
     'email.resetPassword.subject': 'Socialize-starter reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
+    'email.resetPassword.message': `こんにちは{username}!\n\n
+ アカウントのパスワードをリセットするリクエストを受け取りました。
+        以下のリンクに従って、パスワードをリセットしてください:\n\n{url}`,
     'email.verifyEmail.subject': 'Socialize-starter e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.verifyEmail.message': 'こんにちは{username}!\n\n 以下のリンクをクリックして、メールアドレスを確認してください:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
+    'email.salutation': 'こんにちは{username},',
     'email.welcome': 'Welcome to Socialize-starter!',
     'email.signature': 'Sincerely,<br />Socialize-starter team',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
+    'email.enrollAccount.welcome': 'ようこそ！',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Socialize-starter! We went ahead and prepared a personal account for you where you can access all features of Socialize-starter!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.button': 'アカウントにアクセスする',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Socialize-starter team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'アカウントのパスワードをリセットするリクエストを受け取りました。プロセスを続行するには、下のボタンをクリックしてください。 このリクエストをまだ行っていない場合は、この電子メールを無視できますが、セキュリティ設定を確認することをお勧めします。',
+    'email.resetPassword.button': 'パスワードを再設定する',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verifyEmail.messageHtml': '皆様のご参加をお待ちしております。 下のボタンをクリックして、このメールアドレスを確認してください。',
+    'email.verifyEmail.button': 'メールによる確認',
+    'email.verification': 'メールアドレスの認証',
+    'email.verifying': 'メールアドレスを確認しています。しばらくお待ちください...',
+    'email.verified': '素晴らしいお知らせです！あなたのメールアドレスが認証されました！'
 }    /* eslint-enable max-len */;
