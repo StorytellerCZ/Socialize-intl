@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'ストリーム',
+    'feed.post.new': '新規投稿',
+    'feed.post.like': 'いいねポスト',
+    'feed.post.unlike': 'ポストとは異なり',
+    'feed.post.send': '送信',
+    'feed.empty': 'フィードにエントリがありません。'
 };
