@@ -80,5 +80,6 @@ export default {
     'common.publishAt': 'Datum a čas zveřejnění',
     copyrights: 'Autorská práva',
     'copyrights.desc': 'Úplné znění dohody o autorských právech.',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'errorLoading.explained': 'Our apologies, an error occurred during loading.'
 };
