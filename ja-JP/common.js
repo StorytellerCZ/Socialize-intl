@@ -80,5 +80,6 @@ export default {
     'common.publishAt': '公開日時',
     copyrights: '著作権',
     'copyrights.desc': 'Socialize-starter著作権使用許諾契約書の全文を掲載しています。',
-    'common.pagination': 'ページング'
+    'common.pagination': 'ページング',
+    'errorLoading.explained': 'Our apologies, an error occurred during loading.'
 };
