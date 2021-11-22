@@ -85,5 +85,9 @@ export default {
   copyrights: 'Copyrights',
   'copyrights.desc': 'The full text of Socialize-starter Copyrights Agreement.',
   'common.pagination': 'Pagination',
-  'errorLoading.explained': 'Our apologies, an error occurred during loading.'
+  'errorLoading.explained': 'Our apologies, an error occurred during loading.',
+  'notVerified.msg': 'Your account e-mail is not verified.',
+  'notVerified.verify': 'Please verify your e-mail.',
+  'a11y.user.menu': 'User menu',
+  'dashboard.profile': 'Your profile'
 }
