@@ -81,5 +81,9 @@ export default {
     copyrights: '著作権',
     'copyrights.desc': 'Socialize-starter著作権使用許諾契約書の全文を掲載しています。',
     'common.pagination': 'ページング',
-    'errorLoading.explained': 'Our apologies, an error occurred during loading.'
+    'errorLoading.explained': 'Our apologies, an error occurred during loading.',
+    'notVerified.msg': 'Your account e-mail is not verified.',
+    'notVerified.verify': 'Please verify your e-mail.',
+    'a11y.user.menu': 'User menu',
+    'dashboard.profile': 'Your profile'
 };
