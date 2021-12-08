@@ -85,5 +85,6 @@ export default {
     'notVerified.msg': 'Your account e-mail is not verified.',
     'notVerified.verify': 'Please verify your e-mail.',
     'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Your profile'
 };
