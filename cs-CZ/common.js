@@ -70,6 +70,7 @@ export default {
     male: 'Muž',
     female: 'Žena',
     'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+    'common.legal.changelog': 'Changes in this version',
     select: 'Prosím vyberte',
     'common.statusFailed': 'Nepodařilo se připojit k serveru.',
     'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})',
@@ -80,11 +81,11 @@ export default {
     'common.publishAt': 'Datum a čas zveřejnění',
     copyrights: 'Autorská práva',
     'copyrights.desc': 'Úplné znění dohody o autorských právech.',
-    'common.pagination': 'Pagination',
-    'errorLoading.explained': 'Our apologies, an error occurred during loading.',
-    'notVerified.msg': 'Your account e-mail is not verified.',
-    'notVerified.verify': 'Please verify your e-mail.',
-    'a11y.user.menu': 'User menu',
-    'a11y.navigation': 'Navigation',
-    'dashboard.profile': 'Your profile'
+    'common.pagination': 'Stránkování',
+    'errorLoading.explained': 'Omlouváme se, při načítání došlo k chybě.',
+    'notVerified.msg': 'E-mail Vašeho účtu není ověřen.',
+    'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
+    'a11y.user.menu': 'Uživatelské menu',
+    'a11y.navigation': 'Navigace',
+    'dashboard.profile': 'Váš profil'
 };
