@@ -1,6 +1,6 @@
 export default {
     'homepage.welcome': 'Socialize-starterへようこそ！',
-    'about.title': 'About Socialize-starter',
+    'about.title': 'Socialize-starterについて',
     'about.desc': 'Socialize-starter is skeleton for Meteor Framework with social features out of the box.',
     'about.text.1': 'Socialize-starter is a Meteor framework started that fully covers all features of the accounts system of Meteor and Socialize packages functionality. In addition it includes additional features to be GDPR compliant making this a great template to start your next app that requires social media like functionality.',
     'about.text.2': 'Socialize-starterは、Storytellerとしても知られるJan Dvořák氏の♥️で作成されました。',
