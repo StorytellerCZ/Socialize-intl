@@ -7,16 +7,16 @@ export default {
     'email.enrollAccount.message': `Hello {username}\n\n
     We would like to invite you to Socialize-starter! We have created a special personal account for you where you can access all features of Socialize-starter!
     To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Socialize-starter reset password',
+    'email.resetPassword.subject': 'ソーシャルスターターリセットパスワード',
     'email.resetPassword.message': `こんにちは{username}!\n\n
  アカウントのパスワードをリセットするリクエストを受け取りました。
         以下のリンクに従って、パスワードをリセットしてください:\n\n{url}`,
-    'email.verifyEmail.subject': 'Socialize-starter e-mail verification',
+    'email.verifyEmail.subject': 'Socialize-starterのメール認証',
     'email.verifyEmail.message': 'こんにちは{username}!\n\n 以下のリンクをクリックして、メールアドレスを確認してください:\n\n{url}',
     // New html email keys
     'email.salutation': 'こんにちは{username},',
-    'email.welcome': 'Welcome to Socialize-starter!',
-    'email.signature': 'Sincerely,<br />Socialize-starter team',
+    'email.welcome': 'Socialize-starterへようこそ！',
+    'email.signature': '敬具、<br />社交スターターチーム',
     // Enrollment
     'email.enrollAccount.welcome': 'ようこそ！',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Socialize-starter! We went ahead and prepared a personal account for you where you can access all features of Socialize-starter!',
