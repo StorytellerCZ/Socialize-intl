@@ -70,6 +70,7 @@ export default {
     male: '男性',
     female: '女性',
     'common.legal.effectiveAt': '{date, date, medium}から有効',
+    'common.legal.changelog': 'Changes in this version',
     select: '選択してください',
     'common.statusFailed': 'サーバーへの接続に失敗しました。',
     'common.statusConnecting': 'サーバーへの接続を試みています...({count, number})',
