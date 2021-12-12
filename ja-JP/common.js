@@ -1,10 +1,10 @@
 /* eslint-disable max-len */
 export default {
     siteName: 'Socialize-starter',
-    twitterHandle: '@storytellercz',
+    twitterHandle: '@storyercz',
     'site.description': 'Socialize-starter.',
     'site.keywords': 'StorytellerCZ, Meteor.js, socialize',
-    'site.logoAlt': 'Socialize-starter logo',
+    'site.logoAlt': 'ソーシャルスターターロゴ',
     mobileMenu: 'モバイル メニュー',
     'common.signin': 'ログイン',
     'common.signup': '会員登録',
@@ -82,10 +82,10 @@ export default {
     copyrights: '著作権',
     'copyrights.desc': 'Socialize-starter著作権使用許諾契約書の全文を掲載しています。',
     'common.pagination': 'ページング',
-    'errorLoading.explained': 'Our apologies, an error occurred during loading.',
-    'notVerified.msg': 'Your account e-mail is not verified.',
-    'notVerified.verify': 'Please verify your e-mail.',
-    'a11y.user.menu': 'User menu',
-    'a11y.navigation': 'Navigation',
-    'dashboard.profile': 'Your profile'
+    'errorLoading.explained': '申し訳ありません。読み込み中にエラーが発生しました。',
+    'notVerified.msg': 'アカウントのメールアドレスは確認されていません。',
+    'notVerified.verify': 'メールアドレスを確認してください。',
+    'a11y.user.menu': 'ユーザーメニュー',
+    'a11y.navigation': 'ナビ',
+    'dashboard.profile': 'あなたのプロフィール'
 };
