@@ -73,6 +73,7 @@ export default {
   male: 'Male',
   female: 'Female',
   'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+  'common.legal.changelog': 'Changes in this version',
   select: 'Please select',
   'common.statusFailed': 'Failed to connect to the server.',
   'common.statusConnecting':
