@@ -70,6 +70,7 @@ export default {
     male: '男性',
     female: '女性',
     'common.legal.effectiveAt': '{date, date, medium}から有効',
+    'common.legal.changelog': 'Changes in this version',
     select: '選択してください',
     'common.statusFailed': 'サーバーへの接続に失敗しました。',
     'common.statusConnecting': 'サーバーへの接続を試みています...({count, number})',
@@ -80,5 +81,11 @@ export default {
     'common.publishAt': '公開日時',
     copyrights: '著作権',
     'copyrights.desc': 'Socialize-starter著作権使用許諾契約書の全文を掲載しています。',
-    'common.pagination': 'ページング'
+    'common.pagination': 'ページング',
+    'errorLoading.explained': 'Our apologies, an error occurred during loading.',
+    'notVerified.msg': 'Your account e-mail is not verified.',
+    'notVerified.verify': 'Please verify your e-mail.',
+    'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
+    'dashboard.profile': 'Your profile'
 };

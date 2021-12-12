@@ -1,17 +1,18 @@
 export default {
     'user.friend.request.add': 'Přidat mezi přátele',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-  }`,
+    'user.friend.requests': `Máte {num, number} {num, plural,
+    zero {nových žádostí}
+    one {novou žádost}
+    few {nové žádosti}
+    other {nových žádostí}
+  } o přátelství`,
     'user.friend.unfriend': 'Odebrat z přátel',
     'user.block': 'Blokovat',
     'user.unblock': 'Odblokovat',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date}`,
+    male {Přidal}
+    female {Přidala}
+    other {Přidali}} se {date, date, long}`,
     'user.friend.request.accept': 'Přijmout žádost o přátelství',
     'user.friend.request.cancel': 'Zrušit žádost o přátelství',
     'user.friend.request.deny': 'Odmítnout přátelství',
@@ -20,11 +21,11 @@ export default {
     'user.profile.avatar': 'Avatar uživatele {username}',
     'user.friend.list.requests': 'Žádosti o přátelství',
     'user.friend.norequests': 'Nemáte žádné žádosti o přátelství.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Dobré ráno}
+    afternoon {Dobré odpoledne}
+    evening {Dobrý večer}
+    night {Dobrou noc}
+    other {Dobrý den}
   } {displayName}!`
 };
