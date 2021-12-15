@@ -4,9 +4,9 @@
 /* eslint-disable max-len */
 export default {
     'email.enrollAccount.subject': 'Pozvánka do Socialize-starter pro {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Socialize-starter! We have created a special personal account for you where you can access all features of Socialize-starter!
-    To activate your account, simply click the link below:\n\n{url}`,
+    'email.enrollAccount.message': `Dobrý den {username},\n\n
+    Chtěli bychom Vás pozvat na Socialize-starter! Vytvořili jsme pro Vás speciální osobní účet na kterém můžete otestovat všechny funkce Socialize-starter!
+Pro aktivaci Vašeho účtu klikněte na odkaz níže:\n\n{url}`,
     'email.resetPassword.subject': 'Socialize-starter obnovení hesla',
     'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
         Please follow the link bellow to reset your password:\n\n{url}`,
