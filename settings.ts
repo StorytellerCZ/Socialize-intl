@@ -1,3 +1,12 @@
+export type LanguageSettingsType = {
+  code: string
+  name: string
+  native: string
+  defaultLocale: string
+  supportedLocales: string[]
+  rtl: boolean
+}
+
 export default {
   supportedLocales: ['en'],
   /**
@@ -11,7 +20,7 @@ export default {
       defaultLocale: 'en-US',
       supportedLocales: ['en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
       rtl: false
-    },
+    }
     // {
     //   code: 'cs',
     //   name: 'Czech',
@@ -33,8 +42,8 @@ export default {
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLangs () {
-    return this.languages.map(lang => lang.code) || []
+  supportedLangs() {
+    return this.languages.map((lang) => lang.code) || []
   },
   /**
    * Definition of currencies for intl
@@ -75,13 +84,17 @@ export default {
    * @param countryCode {String} 2-key country string
    * @returns {String} 3-key currency string
    */
-  currencyByCountry(countryCode) {
+  currencyByCountry(countryCode: string): string {
     if (!countryCode) return 'USD'
     if (countryCode === 'GB') return 'GBP'
     if (countryCode === 'US' || countryCode === 'CA') return 'USD'
     if (countryCode === 'JP') return 'JPY'
     // EU check
-    if (this.euCountries.indexOf(countryCode) >= 0 || this.euAssociated.indexOf(countryCode) >= 0) return 'EUR'
+    if (
+      this.euCountries.indexOf(countryCode) >= 0 ||
+      this.euAssociated.indexOf(countryCode) >= 0
+    )
+      return 'EUR'
     return 'USD'
   },
   /**
@@ -469,5 +482,5 @@ export default {
     'PR',
     'UM',
     'VI'
-  ],
+  ]
 }
