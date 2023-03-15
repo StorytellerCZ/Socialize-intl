@@ -93,7 +93,11 @@ export default {
   copyrights: 'Copyrights',
   'copyrights.desc': 'The full text of Socialize-starter Copyrights Agreement.',
   'common.pagination': 'Pagination',
-  'errorLoading.explained': 'Our apologies, an error occurred during loading.',
+  'errorLoading.title': 'Error during page load',
+  'errorLoading.explained':
+    'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+  'errorLoading.retry': 'Retry!',
+  'errorLoading.takingLong': 'This is taking a long time...',
   'notVerified.msg': 'Your account e-mail is not verified.',
   'notVerified.verify': 'Please verify your e-mail.',
   'a11y.user.menu': 'User menu',
