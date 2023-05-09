@@ -1,6 +1,6 @@
 /* global Package */
 Package.describe({
-  name: 'socialize-intl',
+  name: 'intl',
   version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Intl for Socialize-starter',
@@ -20,5 +20,5 @@ Package.onUse(function (api) {
 Package.onTest(function (api) {
   api.use(['ecmascript', 'typescript'])
   api.use('tinytest')
-  api.use('socialize-intl')
+  api.use('intl')
 })
