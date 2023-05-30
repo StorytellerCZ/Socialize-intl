@@ -117,5 +117,6 @@ export default {
 
   'signin.web3.signMessage':
     'Please confirm that you want to enter Socialize-starter with your wallet as authentication method. Code: {code}',
-  'common.web3.confirmationCode': 'Confirmation code: {code}'
+  'common.web3.confirmationCode': 'Confirmation code: {code}',
+  'common.chatSupport': 'Chat support'
 }
